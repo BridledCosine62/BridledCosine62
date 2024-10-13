@@ -1,4 +1,4 @@
-### Hello! its me BridledCosine62!
+# Hello! its me BridledCosine62!
 
 ### About Me
 Im Just a Student who loves in Sysadmin things, i like creating new project. My main project is [carilagi.id](https://carilagi.id).
@@ -6,7 +6,7 @@ Im Just a Student who loves in Sysadmin things, i like creating new project. My 
 # Best Project
 - [CariLagi.id](https://carilagi.id)
 
-### About the project
+# About the project
 
  - CariLagi.id
 
