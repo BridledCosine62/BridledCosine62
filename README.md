@@ -8,7 +8,7 @@ Im Just a Student who loves in Sysadmin things, i like creating new project. My 
 
 ### About the project
 
-# CariLagi.id
+ - CariLagi.id
 
 CariLagi.id is a private search engine, it does not store any history. All the code of this project is from SearXNG, I only modified the code part, all credits to SearXNG Owner.
 Website: [CariLagi.id](https://carilagi.id)
